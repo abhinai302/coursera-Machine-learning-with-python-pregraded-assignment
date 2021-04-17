@@ -1,1 +1,1 @@
-# coursera-Machine-learning-with-python-pregraded-assignment
+# Coursera-Machine-learning-with-python-pregraded-assignment
